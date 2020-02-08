@@ -5,7 +5,7 @@
 # 使用
 
 1. 浏览器登陆[便签 - OnePlus Cloud Beta](https://cloud.h2os.com/#/note)；
-2. 复制浏览器的Cookies，如下
+2. 复制浏览器的Cookies，并如下填写
 
 ```python
 # 预设 header
@@ -26,3 +26,4 @@ headers = {
 3. 运行`python getNotes.py`，等待一会得到`Notes/oneplus_Notes.html`
 
 # 效果
+<img alt="exportHtml" src="./Notes/example.png" width="600px" height="auto">
